@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "2d432547d0aafe947280b324953504dc"
+inputs: 
+- "/Users/ryoto/Work/CircleCITest/CircleCITest/ViewController.swift"
+- "/Users/ryoto/Work/CircleCITest/CircleCITest/AppDelegate.swift"
